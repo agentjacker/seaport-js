@@ -53,7 +53,7 @@
     "yargs-parser": ">=5.0.1"
   },
   "dependencies": {
-    "@0xsequence/multicall": "^0.39.0",
+    "@0xsequence/multicall": "^0.43.30",
     "ethers": "^5.6.7",
     "merkletreejs": "^0.2.31"
   },
