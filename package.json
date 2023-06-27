@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@0xsequence/multicall": "^0.39.0",
-    "ethers": "^5.6.7",
+    "ethers": "^5.7.2",
     "merkletreejs": "^0.2.31"
   },
   "devDependencies": {
